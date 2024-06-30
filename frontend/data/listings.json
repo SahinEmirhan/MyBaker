@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Narlı Kek",
+    "price": 25,
+    "stock" : 8,
+    "city": "Ankara",
+    "make": "Gloria Jeans",
+    "url": "https://www.karaca.com/blog/wp-content/uploads/2023/04/duduklude-kek-0.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 2,
+    "name": "Fıstıklı Pasta",
+    "price": 40,
+    "stock" : 12,
+    "city": "Ankara",
+    "make": "Gloria Jeans",
+    "url": "https://www.milanocake.com/wp-content/uploads/2023/10/fistikruyasi-600x400.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 3,
+    "name": "Fıstıklı Pasta 2",
+    "price": 40,
+    "stock" : 14,
+    "city": "Ankara",
+    "make": "Starbucks",
+    "url": "https://canakkaleolay.com/public/photos/news/2024/202402/haber-58964/49581576_58964_limonlu-kek-nasil-yapilir.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 4,
+    "name": "Fıstıklı Pasta 3",
+    "price": 40,
+    "stock" : 14,
+    "city": "Ankara",
+    "make": "Gloria Jeans",
+    "url": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/kakolu-kurabiye.webp",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 5,
+    "name": "Fıstıklı Pasta 4",
+    "price": 80,
+    "stock" : 12,
+    "city": "Ankara",
+    "make": "Starbucks",
+    "url": "https://canakkaleolay.com/public/photos/news/2024/202402/haber-58964/49581576_58964_limonlu-kek-nasil-yapilir.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  },
+  {
+    "id": 6,
+    "name": "Fıstıklı Pasta 5",
+    "price": 75,
+    "stock" : 3,
+    "city": "Ankara",
+    "make": "Gloria Jeans",
+    "url": "https://www.milanocake.com/wp-content/uploads/2023/10/fistikruyasi-600x400.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+  }
+
+
+]
