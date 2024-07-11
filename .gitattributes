@@ -1,0 +1,9 @@
+
+*.js linguist-language=JavaScript
+*.vue linguist-language=Vue
+*.json linguist-language=JSON
+*.md linguist-language=Markdown
+
+package.json linguist-generated=true
+yarn.lock linguist-generated=true
+node_modules/* linguist-vendored=true
