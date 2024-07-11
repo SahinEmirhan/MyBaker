@@ -1,6 +1,6 @@
 
 *.js linguist-language=JavaScript
-*.vue linguist-language=Vue
+*.vue linguist-language=Nuxt
 *.json linguist-language=JSON
 *.md linguist-language=Markdown
 
